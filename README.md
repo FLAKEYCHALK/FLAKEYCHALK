@@ -2,7 +2,7 @@
 <h3>I'm here to learn code and the future of Web 3</h3>
 <img align="right" alt="dudewiththecomputer" height="300" width="350" src="https://i.pinimg.com/originals/3c/f9/53/3cf95377c9b0e2346724f0e0661fdbbb.jpg"\
 
-- 🌱 I’m currently learning **Smart Contract, iOS Development, and Frontend Development**
+- 🌱 I’m currently learning **Smart Contract, iOS Development,** and **Frontend Development**
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@talkchalk) about art and tech
 
 <h3 align="left">Connect with me:</h3>
